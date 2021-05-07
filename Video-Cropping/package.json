@@ -1,0 +1,17 @@
+{
+  "name": "video-cropping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.0.20",
+    "fluent-ffmpeg": "^2.1.2",
+    "get-video-duration": "^3.0.2",
+    "video-length": "^2.0.6"
+  }
+}
